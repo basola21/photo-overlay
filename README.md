@@ -2,6 +2,10 @@
 
 A React application for overlaying, resizing, moving, and adjusting the opacity of multiple photos. The application lets users manipulate images on a canvas and export the final composition as a single image.
 
+
+https://github.com/user-attachments/assets/1ca17fe3-818a-40ee-810e-c35291cff30f
+
+
 ## Features
 
 - Upload multiple images to a canvas.
